@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'Ivory Mono Trial TT';
+  src:
+    url('IvoryMonoTrialTT-MediumItalic.woff2') format('woff2'),
+    url('IvoryMonoTrialTT-MediumItalic.woff') format('woff');
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}

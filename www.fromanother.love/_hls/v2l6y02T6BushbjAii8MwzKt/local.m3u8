@@ -1,0 +1,9 @@
+#EXTM3U
+#EXT-X-VERSION:6
+#EXT-X-TARGETDURATION:10
+#EXT-X-MAP:URI="/_hls/v2l6y02T6BushbjAii8MwzKt/init.mp4"
+#EXTINF:4.000000,
+/_hls/v2l6y02T6BushbjAii8MwzKt/seg_0000.m4s
+#EXTINF:0.366670,
+/_hls/v2l6y02T6BushbjAii8MwzKt/seg_0001.m4s
+#EXT-X-ENDLIST
